@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SethKhalif
 - 👀 I’m interested in learning new and old codes
-- 🌱 I’m currently learning python and cybersecurity 
+- 🌱 I’m currently learning Cybersecurity 
 - 💞️ I’m looking to collaborate on working on my first project 
 - 📫 How to reach me sethemma10@yahoo.com
 
